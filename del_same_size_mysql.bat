@@ -1,6 +1,6 @@
 @echo off
 
-set "path=c:\backup2\sites\"  REM Change this to your desired folder path
+set "path=c:\backup2\mysql_zip\"  REM Change this to your desired folder path
 set "vbscript=%temp%\deledup.vbs"
 set "dups=0"
 
